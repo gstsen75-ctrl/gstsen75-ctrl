@@ -1,6 +1,6 @@
 # Hi, I'm Agastya 👋
 
-I build LLM-powered applications, with a focus on agent design patterns — multi-agent orchestration, retrieval pipelines, self-correction loops, and iterative reasoning. The projects here are built with LangChain, LangGraph, and OpenAI, and range from full-stack web apps to deeper explorations of how agentic systems work under the hood.
+I build LLM-powered applications, with a focus on agent design patterns — multi-agent orchestration, retrieval pipelines, self-correction loops, and iterative reasoning. The projects here are built with LangChain, LangGraph, and OpenAI, and range from full-stack web apps to deeper explorations of how agentic systems work under the hood. They're all informal projects I decided to build with the purpose of learning new tech concepts by implementation rather than strictly theory.
 
 ---
 
