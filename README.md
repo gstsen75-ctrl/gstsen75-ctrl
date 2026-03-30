@@ -18,7 +18,8 @@ I build LLM-powered applications, with a focus on agent design patterns — mult
 
 | Project | What it demonstrates |
 |---|---|
-| [in-memory-db](https://github.com/gstsen75-ctrl/In_Memory_DB) | From-scratch database engine in Python — implements schema validation, indexing, LRU buffer pool, write-ahead logging (WAL), and crash recovery |
+| [in-memory-db](https://github.com/gstsen75-ctrl/In_Memory_DB) | From-scratch database engine in Python — implements schema validation, indexing, LRU buffer pool, write-ahead logging (WAL), and crash recovery. I wanted to implement some of the concepts I read about in the book Designing Data Intensive Applications by Martin Kleppmann. This project is ongoing, there's a lot more I will continue to add.
+ |
 
 
 ### 📚 Educational / Terminal
