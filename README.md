@@ -14,6 +14,13 @@ I build LLM-powered applications, with a focus on agent design patterns — mult
 | [reflection-agent](https://github.com/gstsen75-ctrl/reflection-agent) | Paste a rough tweet — a generator and critic alternate in a loop, each round making it sharper |
 | [reflexion-agent](https://github.com/gstsen75-ctrl/reflexion-agent) | Research assistant that drafts an answer, searches the web to fill gaps, then revises with citations |
 
+### ⚙️ Systems / Backend Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [in-memory-db](https://github.com/gstsen75-ctrl/In_Memory_DB) | From-scratch database engine in Python — implements schema validation, indexing, LRU buffer pool, write-ahead logging (WAL), and crash recovery |
+
+
 ### 📚 Educational / Terminal
 
 | Project | What it demonstrates |
